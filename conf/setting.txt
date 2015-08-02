@@ -1,0 +1,15 @@
+#测试
+#配置
+url::10.202.150.19:2029#地址
+db_name::ultimate_data #数据库类型
+tb_name::rank
+func_module::funcPool.py
+#参数
+score::0.1
+quality#city::0.01::f1
+price::0.02::f2
+
+score::0.2
+quality#city::0.03::f2
+price::0.06::f1
+
